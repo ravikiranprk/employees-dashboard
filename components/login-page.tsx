@@ -27,10 +27,8 @@ export function LoginPage({ onLoginSuccess }: { onLoginSuccess: () => void }) {
             return
         }
 
-        // Simulate authentication delay
         await new Promise((resolve) => setTimeout(resolve, 500))
 
-        // Mock authentication - accept any valid email/password
         setAuthUser({
             id: "user_" + Date.now(),
             email: email,
