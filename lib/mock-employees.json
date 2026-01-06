@@ -1,0 +1,52 @@
+[
+    {
+        "id": "EMP001",
+        "name": "John Anderson",
+        "gender": "Male",
+        "dateOfBirth": "1990-05-15",
+        "state": "California",
+        "profileImage": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+        "active": true,
+        "createdAt": "2024-01-10"
+    },
+    {
+        "id": "EMP002",
+        "name": "Sarah Johnson",
+        "gender": "Female",
+        "dateOfBirth": "1992-08-22",
+        "state": "Texas",
+        "profileImage": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=400&fit=crop",
+        "active": true,
+        "createdAt": "2024-01-12"
+    },
+    {
+        "id": "EMP003",
+        "name": "Michael Chen",
+        "gender": "Male",
+        "dateOfBirth": "1988-03-10",
+        "state": "New York",
+        "profileImage": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop",
+        "active": true,
+        "createdAt": "2024-01-15"
+    },
+    {
+        "id": "EMP004",
+        "name": "Emily Davis",
+        "gender": "Female",
+        "dateOfBirth": "1995-11-30",
+        "state": "Florida",
+        "profileImage": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop",
+        "active": false,
+        "createdAt": "2024-02-01"
+    },
+    {
+        "id": "EMP005",
+        "name": "David Martinez",
+        "gender": "Male",
+        "dateOfBirth": "1991-07-18",
+        "state": "Arizona",
+        "profileImage": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+        "active": true,
+        "createdAt": "2024-02-05"
+    }
+]
